@@ -111,7 +111,7 @@ cleaning.
 5. user button is pressed and held for 2 seconds, the red LED is off
 ![image](https://github.com/avnish8726/M3_Wiper_Control_System/blob/main/6_Output/Others/Engine%20OFF%20State.jpg)
 
-#※⁜ ADVANTAGES ※⁜
+# ※⁜ ADVANTAGES ※⁜
 
 * Turn off the irrigation system during wet seasons to save money. As a result, electricity bills are reduced.
 * Rain sensors collect water during rainstorms and store it for use throughout the summer and winter.
