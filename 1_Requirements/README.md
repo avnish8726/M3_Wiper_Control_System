@@ -28,3 +28,6 @@ with a fourth press. All of this was done with the help of LEDs and a simulation
 | LR02 | If the user pressed the Button TWICE - OFF LED RED| Implemented |
  LR03 | If the user pressed the Button THREE times - ON BLUE, GREEN, ORANGE | Implemented |
 | LR04 | If the user pressed the Button FOUR times - IN ORANGE, GREEN, BLUE | Implemented |
+
+# SWOT Analysis
+![](https://github.com/avnish8726/M3_Wiper_Control_System/blob/main/6_Output/Others/Swot%20analysis.png)
