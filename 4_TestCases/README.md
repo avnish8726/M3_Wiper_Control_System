@@ -1,5 +1,5 @@
 
-# M3_WIPER_CONTROL_SYSTEM
+# Wiper Control System
 
 ##  HIGH LEVEL TEST PLAN
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Output** |**Type Of Test**  |    
