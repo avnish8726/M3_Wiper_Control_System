@@ -1,4 +1,4 @@
-# Output Images and Video #
+# Output Images
 
 
 
