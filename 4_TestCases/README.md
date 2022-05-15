@@ -1,7 +1,10 @@
 
-# Wiper Control System
+# ※⁜ Wiper Control System ※⁜
 
-##  HIGH LEVEL TEST PLAN
+
+## ※⁜  HIGH LEVEL TEST PLAN ※⁜
+
+
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Output** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  H_01       | At the Time of engine ON  |  ONCE a button is pressed | ON Engine |ON Engine|Requirement based |
@@ -10,7 +13,9 @@
 |  H_04       |At the time of Wiper OFF|  Four times a button are pressed | OFF Wiper |OFF Wiper in Anticlockwise direction |Requirement based |
 
 
-##  LOW LEVEL TEST PLAN
+## ※⁜ LOW LEVEL TEST PLAN ※⁜
+
+
 
 | **Test ID** | **Description**       | **Exp I/P** | **Exp O/P** | **Actual Output** |**Type Of Test**  |   
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
